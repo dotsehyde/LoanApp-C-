@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\DotNet\LoanApp\LoanApp\bin\Debug\net8.0-windows\LoanApp.exe
+C:\Users\User\Desktop\DotNet\LoanApp\LoanApp\bin\Debug\net8.0-windows\LoanApp.deps.json
+C:\Users\User\Desktop\DotNet\LoanApp\LoanApp\bin\Debug\net8.0-windows\LoanApp.runtimeconfig.json
+C:\Users\User\Desktop\DotNet\LoanApp\LoanApp\bin\Debug\net8.0-windows\LoanApp.dll
+C:\Users\User\Desktop\DotNet\LoanApp\LoanApp\bin\Debug\net8.0-windows\LoanApp.pdb
+C:\Users\User\Desktop\DotNet\LoanApp\LoanApp\obj\Debug\net8.0-windows\LoanApp.Form1.resources
+C:\Users\User\Desktop\DotNet\LoanApp\LoanApp\obj\Debug\net8.0-windows\LoanApp.csproj.GenerateResource.cache
+C:\Users\User\Desktop\DotNet\LoanApp\LoanApp\obj\Debug\net8.0-windows\LoanApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\DotNet\LoanApp\LoanApp\obj\Debug\net8.0-windows\LoanApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DotNet\LoanApp\LoanApp\obj\Debug\net8.0-windows\LoanApp.AssemblyInfo.cs
+C:\Users\User\Desktop\DotNet\LoanApp\LoanApp\obj\Debug\net8.0-windows\LoanApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DotNet\LoanApp\LoanApp\obj\Debug\net8.0-windows\LoanApp.dll
+C:\Users\User\Desktop\DotNet\LoanApp\LoanApp\obj\Debug\net8.0-windows\refint\LoanApp.dll
+C:\Users\User\Desktop\DotNet\LoanApp\LoanApp\obj\Debug\net8.0-windows\LoanApp.pdb
+C:\Users\User\Desktop\DotNet\LoanApp\LoanApp\obj\Debug\net8.0-windows\LoanApp.genruntimeconfig.cache
+C:\Users\User\Desktop\DotNet\LoanApp\LoanApp\obj\Debug\net8.0-windows\ref\LoanApp.dll
