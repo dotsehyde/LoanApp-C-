@@ -4,4 +4,4 @@
 
 ### Screenshot
 
-<img src="./loan_ss.png" width="200px">
+<img src="./loan_ss.png" width="500px">
