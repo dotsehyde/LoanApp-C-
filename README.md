@@ -4,4 +4,4 @@
 
 ### Screenshot
 
-![Loan App]("./loan_ss.png")
+<img src="./loan_ss.png" width="200px">
